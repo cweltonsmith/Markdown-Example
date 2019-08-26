@@ -18,4 +18,4 @@ The four forces acting on an aircraft are:
 3. Thrust
 4. Drag
 
-In steady unaccelearted level flight lift equals weight and thrust equals drag. In normal flying if lift becomes greater than weight then the aircraft will become airborne. 
+In steady unaccelearted level flight lift equals weight and thrust equals drag. If thrust becomes greater than drag the aircraft will begin moving and gain speed. When moving if lift becomes greater than weight then the aircraft will rise and become airborne. 
