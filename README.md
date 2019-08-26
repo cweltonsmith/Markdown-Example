@@ -1,1 +1,20 @@
 # Markdown-Example
+
+## Aircraft Basics
+
+### Aircraft Systems
+Aircrafts can be broken down into specific systems.There are many different systems depending on the plane your flying but all aircrafts will have these basic systems.
+
+- Electrical system
+- Hydraulic system
+- Powerplant
+- Avionics
+- Fuel system
+
+### Principles of flight
+The four forces acting on an aircraft are:
+1. Weight
+2. Lift
+3. Thrust
+4. Drag
+In unaccelearted level flight
